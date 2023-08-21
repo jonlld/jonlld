@@ -9,9 +9,9 @@ I am a bilingual fullstack developer with a passion for building applications th
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
 </div>
 
 ## Frameworks / Libraries
@@ -49,7 +49,7 @@ I am a bilingual fullstack developer with a passion for building applications th
 ## Kataru
 ### **Fullstack Engineer - _current_**
 #### _React, TypeScript, Sass, Python, Django, Postgres_
-A creative writing app that eliminates writers block by challenging users to write daily through thought provoking prompts, rewarding them as they progress.
+A creative writing app that helps eliminate writers block by challenging users to build a daily writing habit through the use of thought-provoking prompts and progress rewards.
 
 
 
