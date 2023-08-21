@@ -51,11 +51,15 @@ I am a bilingual fullstack developer with a passion for building applications th
 #### _React, TypeScript, Sass, Python, Django, Postgres_
 A creative writing app that eliminates writers block by challenging users to write daily through thought provoking prompts, rewarding them as they progress.
 
+
+
 <br />
 <div>
   <img width="80%" alt="kataru" src="https://github.com/jonlld/jonlld/assets/87318928/dbed9511-617a-41c8-b896-07521adcf33a">
 </div>
+<br />
 
+[<img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="kataru repositories" />](https://github.com/orgs/team-kataru/repositories)
 
 ## Amazing Math Machine
 ### **Frontend Engineer**
@@ -83,4 +87,6 @@ Ondo is a web service and IoT device that enables healthcare workers to monitor 
 <div>
   <img width="80%" alt="Ondo_2" src="https://github.com/jonlld/jonlld/assets/87318928/e89c4eb0-41b0-4573-b6ce-47bba34a4ca1">
 </div>
+<br />
 
+[<img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="ondo repositories" />](https://github.com/jonlld?tab=repositories&q=ondo&type=&language=&sort=)
