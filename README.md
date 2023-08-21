@@ -23,6 +23,7 @@ I am a bilingual full-stack developer with a passion for building applications t
 
 <div>
   <h3> Backend: </h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
   <img src="https://img.shields.io/badge/Knex.js-2a2421?style=for-the-badge&logo=&logoColor=white" alt="knex.js" />    
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fastapi" />
@@ -33,7 +34,6 @@ I am a bilingual full-stack developer with a passion for building applications t
 <div>
   <h3> Other: </h3>
   <img src="https://img.shields.io/badge/Docker-0874ec?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=&logoColor=white" alt="rest api" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="mocha" />
