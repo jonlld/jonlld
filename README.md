@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a creative and bilingual fullstack developer with a passion for building applications that teach and empower, with a background in finance and literary translation.
+I am a creative and bilingual fullstack developer with a passion for building applications that help teach and empower, with a background in finance and literary translation.
 
 # Skills
 
