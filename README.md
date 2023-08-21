@@ -80,7 +80,7 @@ A fun web app to help children enjoy studying math.
 ### **Fullstack Engineer**
 #### _Python, FastAPI, Typescript, React, Raspberry Pi_ 
 
-Ondo is a web service and IoT device that enables healthcare workers to monitor the temperature and humidity of elderly homes in order to ensure their safety during hot and cold months. Triggers an alarm and remote notifications when temperature thresholds are breached.
+Ondo is a web service and IoT device that enables healthcare workers to monitor the temperature and humidity of elderly homes in order to ensure their safety during hot and cold months. Triggers a local alarm and remote notifications when temperature thresholds are breached.
 
 <br />
 <div>
