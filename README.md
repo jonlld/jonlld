@@ -71,6 +71,9 @@ A fun web app to help children enjoy studying math.
 <div>
   <img width="80%" alt="amazing_math" src="https://github.com/jonlld/jonlld/assets/87318928/83237112-c8ef-4b42-afc1-859202c5f4c7">
 </div>
+<br />
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="math_machine" />](https://the-amazing-math-machine.netlify.app/)
 
 
 ## Ondo
