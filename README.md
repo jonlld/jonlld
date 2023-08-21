@@ -93,3 +93,8 @@ Ondo is a web service and IoT device that enables healthcare workers to monitor 
 <br />
 
 [<img src="https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white" alt="ondo repositories" />](https://github.com/jonlld?tab=repositories&q=ondo&type=&language=&sort=)
+
+
+## Contact
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' />](https://www.linkedin.com/in/jonlloyddavies/) 
+
